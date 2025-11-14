@@ -1,0 +1,5 @@
+{
+  "proxy": null,
+  "concurrency": 5,
+  "max_pages": 20
+}
